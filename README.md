@@ -6,7 +6,7 @@ This repository provides educational resources, installation instructions, FAQs,
 
 ## 📌 About
 
-Remini is an AI-based photo enhancement application that can improve blurry, old, and low-quality images using advanced artificial intelligence.
+Remini is an AI-based photo enhancement application that can improve blurry, old, and [low-quality images](https://reminiapkmod.in/). using advanced artificial intelligence.
 
 This repository aims to help users understand the app, its features, and common installation or usage questions.
 
