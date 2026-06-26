@@ -53,7 +53,7 @@ No. This repository is intended for documentation and educational purposes only.
 
 For detailed guides, tutorials, and updates, visit:
 
-**https://yourwebsite.com**
+**https://reminiapkmod.in/**
 
 Replace the URL above with your website.
 
